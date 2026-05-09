@@ -21,7 +21,7 @@ This portfolio is designed to demonstrate skills in:
 ## 🛠️ Skills
 
 - **Data Visualization**: Power BI, Tableau, Matplotlib, etc.
-- **Data Analysis**: SQL, Python (Pandas), R, Excel, etc.
+- **Data Analysis**: SQL, Python (Pandas), Excel, etc.
 - **Data Modeling**: Power Query, DAX, Star Schema Design, etc.
 
 
